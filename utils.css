@@ -1,0 +1,35 @@
+.text-center{
+    text-align: center;
+  }
+  
+  .bg-red{
+    background: red;
+  }
+  
+  .mx-auto{
+    margin: auto;
+  }
+  
+  .flex{
+    display:flex;
+  } 
+  .flex-col{
+    flex-direction: column;
+  }
+  
+  .items-center{
+    align-items: center;
+  }
+  .wrapper{
+   
+    font-size: 20px;
+    background: rgb(213, 233, 213);
+    height: 40px;
+    text-align: center;
+}
+
+.marquee {
+    background: rgb(0, 255, 200);
+    white-space: nowrap;
+    
+}
